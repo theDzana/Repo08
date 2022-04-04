@@ -10,8 +10,8 @@ function addFive() {
     sum = sum + 5;
     console.log("sum from addFive:", sum);
 }
-addThree();
-addFive();
+console.log(addThree());
+console.log(addFive());
 // Only change code above this line
 module.exports = {
     addThree,
