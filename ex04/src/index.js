@@ -10,7 +10,7 @@ function function1() {
 function function2() {
     var result = "";
     if (typeof myGlobalVariable != "undefined") {
-        result += " myGlobalVariable: " + myGlobalVariable;
+        result += "myGlobalVariable: " + myGlobalVariable;
     }
     if (typeof myLocalVariable != "undefined") {
         result += " myLocalVariable: " + myLocalVariable;
