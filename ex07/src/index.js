@@ -4,6 +4,7 @@ function myDress() {
     var dress = "ball gown";
     return dress;
 }
+myDress();
 console.log(myDress());
 // Only change code above this line
 
