@@ -4,7 +4,9 @@ function xSix(num) {
 }
 
 
-
+xSix(5);
+xSix(2);
+xSix(0);
 console.log(xSix(5));
 console.log(xSix(2));
 console.log(xSix(0)); 
