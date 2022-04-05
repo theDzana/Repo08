@@ -1,4 +1,4 @@
-// Write code beloww this line
+// Write code below this line
 function functionPrintInfo(name, age) {
     console.log(name, age);
 }
